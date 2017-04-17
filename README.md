@@ -31,6 +31,6 @@
 4. How to use it
    -------------
 * Load the extension on your NetLogo project
-    extensions [jessLogo]
+    <extensions [jessLogo]>
 * Tou can execute any jess command using the <eval> instruction
   p.e. : show jesslogo:eval "(+ 1 2)"
