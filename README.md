@@ -20,11 +20,12 @@
    
 * NetLogo 6.0
 
-* Java Runtime Environment 5
+* Java Runtime Environment 5.*
 
 * Jess 7.0 
- 
+
 3. How to run it
+   -------------
 
 * Create a folder <jessLogo> under the extensions folder of the NetLogo 
   application.
@@ -32,6 +33,7 @@
 * Put <jessLogo.jar> and <jess.jar> files inside <jessLogo> folder
 
 4. How to use it
+   -------------
 
 * Load the extension on your NetLogo project
     <extensions [jessLogo]>
