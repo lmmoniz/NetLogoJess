@@ -27,16 +27,17 @@
 3. How to run it
    -------------
 
-* Create a folder <jessLogo> under the extensions folder of the NetLogo 
+* Create a folder \<jessLogo\> under the extensions folder of the NetLogo 
   application.
  
-* Put <jessLogo.jar> and <jess.jar> files inside <jessLogo> folder
+* Put \<jessLogo.jar\> and \<jess.jar\> files inside \<jessLogo\> folder
+
 
 4. How to use it
    -------------
 
 * Load the extension on your NetLogo project
-    <extensions [jessLogo]>
+    \<extensions [jessLogo]>
     
 * Tou can execute any jess command using the <eval> instruction
   p.e. : show jesslogo:eval "(+ 1 2)"
