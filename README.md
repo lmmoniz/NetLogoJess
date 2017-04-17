@@ -20,7 +20,7 @@
    
 * NetLogo 6.0
 
-* Java Runtime Environment 5.*
+* Java Runtime Environment 5
 
 * Jess 7.0 
  
